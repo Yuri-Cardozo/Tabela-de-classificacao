@@ -1,3 +1,3 @@
 # Tabela-de-classificacao
-projeto da Tabela de Classificação Alura: Uma tabela interativa que permite registrar e exibir a pontuação de jogadores em um determinado jogo.
+Projeto da Tabela de Classificação Alura: Uma tabela interativa que permite registrar e exibir a pontuação de jogadores em um determinado jogo.
 O projeto utiliza HTML, CSS e JavaScript para criar uma tabela dinâmica, onde é possível adicionar vitórias, empates e derrotas para cada jogador, além de calcular automaticamente a pontuação. A tabela é atualizada em tempo real conforme as ações são registradas. É uma ótima forma de acompanhar a classificação dos jogadores em um torneio ou competição. Aprenda a criar essa tabela e personalize-a de acordo com suas preferências de jogo!
